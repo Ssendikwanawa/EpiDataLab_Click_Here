@@ -45,7 +45,10 @@
 ## Data Sources
 
 - DHIS2
-- HMIS Form 033B
+- eIDSR
+- ePHEM
+- HMIS033B - Weekly Surveillance Data
+- RDS
 - UBOS 2025 shapefiles
 - Outbreak linelists
 
