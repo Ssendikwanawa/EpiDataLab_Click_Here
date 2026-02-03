@@ -6,7 +6,7 @@ library(ggridges)
 library(viridis)
 library(readxl)
 
-# Load your dataset
+# Load dataset
 library(readxl)
 reporting_rates2023_Timeliness <- read_excel("C:/Users/Administrator/Desktop/reporting_rates2023_Timeliness.xls")
 View(reporting_rates2023_Timeliness)
@@ -49,7 +49,7 @@ library(ggridges)
 library(viridis)
 library(readxl)
 
-# Load your dataset
+# Load dataset
 library(readxl)
 reporting_rates2023_Completeness_xls <- read_excel("C:/Users/Administrator/Desktop/reporting_rates2023_Completeness.xls.xlsx")
 
