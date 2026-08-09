@@ -1,14 +1,14 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/EpiDataLab_Click_Here)](https://github.com/Ssendikwanawa/EpiDataLab_Click_Here/commits/master)
-# Navigate Outbreak Analytics 
-**Shaping Preparedness and Response**
+# Navigate Disease Outbreak Analytics 
+**Shaping Disease Preparedness and Response**
 
-**Real-time epidemiology in R** — Transforming Uganda MoH data into **actionable intelligence**.
+**Real-time epidemiology in R** — Transforming Uganda's MoH disease surveillance data into **actionable intelligence**.
 
 > **Author**: Emmanuel Ssendikwanawa  
-> **Updated**: November 2025  
-> **Focus**: Mpox, Measles, Anthrax, Maternal Health, Geospatial, Alerts
+> **Updated**: August 2026  
+> **Focus**: Mpox, Measles, Malaria Channels, Anthrax, Mortality Surveillance, Maternal Health, Geospatial, Sudan Ebola virus (SUVD), Ebola Bundibugyo Virus Disease (BVD), Forest plots
 
 ---
 
