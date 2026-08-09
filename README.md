@@ -8,7 +8,7 @@
 
 > **Author**: Emmanuel Ssendikwanawa  
 > **Updated**: August 2026  
-> **Focus**: Mpox, Measles, Malaria Channels, Anthrax, Mortality Surveillance, Maternal Health, Geospatial, Sudan Ebola virus (SUVD), Ebola Bundibugyo Virus Disease (BVD), Forest plots
+> **Focus**: Data analytics for Mpox, Measles, Malaria, Anthrax, VHFs and Mortality Surveillance
 
 ---
 
