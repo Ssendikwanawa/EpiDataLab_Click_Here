@@ -14,15 +14,7 @@
 
 ## Data Sources
 
-- DHIS2 and DHIS1
-- eIDSR
-- ePHEM
-- HMIS033B - Weekly Surveillance Data
-- RDS
-- UBOS 2025 shapefiles
-- Outbreak linelists
-- Go-data
-- Integrated Requests & Results Dispatch System
+- DHIS2, DHIS1, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Outbreak linelists, Go-data, Integrated Requests & Results Dispatch System
 
 ---
 
