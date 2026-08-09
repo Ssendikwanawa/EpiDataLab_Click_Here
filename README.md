@@ -7,7 +7,7 @@
 
 **Real-time epidemiology in R/Python** — Transforming Uganda's MoH disease surveillance data into actionable intelligence.
 
-📌 *Scripts are accessible via the blue link **EpiDataLab_Click_Here** at the top left of this page.*
+📌 *Scripts are accessible via the link **EpiDataLab_Click_Here** above.*
 
 **Focus:** Data analytics for Mpox, Measles, Malaria, Anthrax, VHFs, and Mortality Surveillance
 
