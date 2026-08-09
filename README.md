@@ -17,7 +17,7 @@
 
 ---
 
-## Data Ssources
+## Data sources
 
 - DHIS2, DHIS1, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Outbreak linelists, Go-data, Integrated Requests & Results Dispatch System
 
