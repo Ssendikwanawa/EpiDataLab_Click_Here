@@ -44,13 +44,15 @@
 
 ## Data Sources
 
-- DHIS2
+- DHIS2 and DHIS1
 - eIDSR
 - ePHEM
 - HMIS033B - Weekly Surveillance Data
 - RDS
 - UBOS 2025 shapefiles
 - Outbreak linelists
+- Go-data
+- Integrated Requests & Results Dispatch System
 
 ---
 
