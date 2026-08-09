@@ -13,20 +13,19 @@
 
 📌 *Scripts are accessible via the blue link **EpiDataLab_Click_Here** at the top left of this page.*
 
-**Author:** Emmanuel Ssendikwanawa
-**Updated:** August 2026
 **Focus:** Data analytics for Mpox, Measles, Malaria, Anthrax, VHFs, and Mortality Surveillance
 
 ---
 
-## Data Sources
+## Data Ssources
 
 - DHIS2, DHIS1, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Outbreak linelists, Go-data, Integrated Requests & Results Dispatch System
 
 ---
 
-## Contact info
+### Contact info
 
->**Author:** Emmanuel Ssendikwanawa**
+>**Author:** Emmanuel Ssendikwanawa
 >**Phone:** 0774663665, 0759031216
+
 >**Email:**ssendikwanawaemmanuel@gmail.com  
