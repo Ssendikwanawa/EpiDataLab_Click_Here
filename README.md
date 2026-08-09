@@ -5,12 +5,12 @@
 
 # Disease outbreak analytics for preparedness and response
 
-**Real-time epidemiology in R/Python** — Transforming Uganda's MoH disease surveillance data into actionable intelligence.
+**Real-time epidemiology in R/Python** — >*Transforming Uganda's MoH disease surveillance data into actionable intelligence.*
 
 ## Scripts
-Over the years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activities I engaged in to support MOH contain outbreaks such as Mpox, VHFs(SUVD,BVD, CCHF), Anthrax, Measles, Malaria, TB, Reporting metrics, Maternal health among others.
+Over the 6+years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of outbreaks — Mpox, VHFs (SUVD, BVD, CCHF), Anthrax, Measles, Malaria, TB, reporting metrics, maternal health, and more.
 
-So I built **EpiDataLab** which is a free, open-source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and analyzing outbreak data the way it shows up.
+So I built **EpiDataLab** — a free, open-source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and analyzing outbreak data the way it actually shows up in the field.
 
 📂 [**Explore the pipelines →**](./EpiDataLab_Click_Here)
  [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
