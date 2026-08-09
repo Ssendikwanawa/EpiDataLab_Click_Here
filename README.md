@@ -1,7 +1,7 @@
 
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/EpiDataLab_Click_Here)](https://github.com/Ssendikwanawa/EpiDataLab_Click_Here/commits/master)
 
