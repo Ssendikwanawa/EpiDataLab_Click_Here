@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/EpiDataLab_Click_Here)](https://github.com/Ssendikwanawa/EpiDataLab_Click_Here/commits/master)
 
-# Disease Outbreak Analytics for Preparedness and Response
+# Disease outbreak analytics for preparedness and response
 
 **Real-time epidemiology in R/Python** — Transforming Uganda's MoH disease surveillance data into actionable intelligence.
 
@@ -25,8 +25,8 @@
 
 ---
 
-## Contact
+## Contact info
 
-**Emmanuel Ssendikwanawa**  
-Email: ssendikwanawaemmanuel@gmail.com  
-Phone: +256 774 663 665 (Whatsapp), 759 031 216 (Office)
+>**Author:** Emmanuel Ssendikwanawa**
+>**Phone:** 0774663665, 0759031216
+>**Email:**ssendikwanawaemmanuel@gmail.com  
