@@ -1,10 +1,10 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/EpiDataLab_Click_Here)](https://github.com/Ssendikwanawa/EpiDataLab_Click_Here/commits/master)
-# Navigate Disease Outbreak Analytics 
+# Disease Outbreak Analytics
 **Shaping Disease Preparedness and Response**
 
-**Real-time epidemiology in R** — Transforming Uganda's MoH disease surveillance data into **actionable intelligence**.
+**Real-time epidemiology in R/Python** — Transforming Uganda's MoH disease surveillance data into **actionable intelligence**.
 
 > **Author**: Emmanuel Ssendikwanawa  
 > **Updated**: August 2026  
