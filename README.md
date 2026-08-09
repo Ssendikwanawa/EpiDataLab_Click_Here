@@ -8,8 +8,13 @@
 **Real-time epidemiology in R/Python** — Transforming Uganda's MoH disease surveillance data into actionable intelligence.
 
 ## Scripts
-Over the years, I kept building data analytics pipelines and used them in every disease preparedness and outbreak response activities that i supported (Mpox, Ebola, Anthrax, Malaria, TB and Mortality Surveillance).
-So I built EpiDataLab which is a free, open-source work space with reproducible pipelines (R/Python) designed specifically for field disease surveillance data: cleaning, triangulating, and analyzing outbreak data the way it actually shows up in the field, not in a textbook. Tap link below;
+Over the years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I supported — Mpox, Ebola, Anthrax, Malaria, TB, and Mortality Surveillance.
+
+So I built **EpiDataLab** — a free, open-source workspace with reproducible pipelines (R/Python) designed specifically for field disease surveillance data: cleaning, triangulating, and analyzing outbreak data the way it actually shows up in the field, not in a textbook.
+
+📂 [**Explore the pipelines →**](./EpiDataLab_Click_Here)
+
+---
  [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
  
 ---
