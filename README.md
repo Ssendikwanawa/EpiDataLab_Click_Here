@@ -25,7 +25,7 @@
 
 ### Contact info
 
->**Author:** Emmanuel Ssendikwanawa
->**Phone:** 0774663665 or 0759031216
+>**Author:** Emmanuel Ssendikwanawa.
+>**Phone:** 0774663665 or 0759031216.
 
 >**Email:**ssendikwanawaemmanuel@gmail.com
