@@ -6,7 +6,7 @@
 # Disease outbreak analytics for preparedness and response
 
 **Real-time epidemiology in R/Python**
->*Transforming Uganda's MoH disease surveillance data into actionable intelligence.*
+*Transforming Uganda's MoH disease surveillance data into actionable intelligence.*
 
 ## Scripts
 Over the past six years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of disease outbreaks such as Sudan Ebola Virus,  Bundibugyo Ebola Virus, Mpox, CCHF, Anthrax, Measles, Malaria, TB and more.
@@ -27,7 +27,7 @@ So I built **EpiDataLab** which is a free open source workspace with reproducibl
 ### Contact
 
 **Author** Emmanuel Ssendikwanawa
-**Mail** ssendikwanawaemmanuel@gmail.com
-**LinkedIn** https://www.linkedin.com/in/emmanuel-ssendikwanawa-859804109
-**Orcid** https://orcid.org/0000-0002-8116-9216
-**Address** Kampala, Uganda.
+ssendikwanawaemmanuel@gmail.com
+https://orcid.org/0000-0002-8116-9216
+https://www.linkedin.com/in/emmanuel-ssendikwanawa-859804109
+**Address** Kampala, Uganda
