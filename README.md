@@ -17,11 +17,9 @@
 </p>
 
 ### Outbreak Analytic Pipelines
-*Over the past six years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of di[...] 
+*Over the recent years, I have kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of the major PHEs in Uganda (Ebola, Mpox, Measles, Malaria, etc)*
 
-*So I built ***EpiDataLab*** which is a free open source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and anal[...]
-
-Find the scripts by clicking on the link below:
+*So I built ***EpiDataLab*** which is a free open source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and analysis. Find the scripts by clicking on the link below*
 
 📂 [**Pipelines →**](./EpiDataLab_Click_Here)
 [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
