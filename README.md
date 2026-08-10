@@ -3,7 +3,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/EpiDataLab_Click_Here)](https://github.com/Ssendikwanawa/EpiDataLab_Click_Here/commits/master)
 
-# Disease outbreak analytics for preparedness and response
+<p align="center">
+
+## Disease outbreak analytics for preparedness and response 
+
+</p>
 
 **Real-time epidemiology in R/Python**
 *Transforming Uganda's MoH disease surveillance data into actionable intelligence.*
