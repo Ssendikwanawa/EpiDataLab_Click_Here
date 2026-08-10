@@ -25,8 +25,7 @@
 [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
 
 ## Related projects
-[![EVD Analysis](https://img.shields.io/badge/Related-EVD%20Analysis-blue?style=for-the-badge)](https://github.com/Ssendikwanawa/EVD_Analysis)
-- [Feb_SUVD_Evaluation](https://github.com/Ssendikwanawa/EVD_Analysis) — companion repository with extensive data analysis for SUVD early-intervention approaches.
+- [**Feb_SUVD_Evaluation**](./EVD_Analysis)[`/EVD_Analysis`](./EVD_Analysis). — a reposi
  
 ---
 
