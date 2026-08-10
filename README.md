@@ -39,7 +39,7 @@
 ---
 
 #### Contact info
->**Author::** Emmanuel Ssendikwanawa.
+>**Author:** Emmanuel Ssendikwanawa.
 *ssendikwanawaemmanuel@gmail.com*
 
 >**Orcid:** *https://orcid.org/0000-0002-8116-9216.*
