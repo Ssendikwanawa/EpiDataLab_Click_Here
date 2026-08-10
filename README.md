@@ -28,5 +28,8 @@ So I built **EpiDataLab** which is a free open source workspace with reproducibl
 
 **Emmanuel Ssendikwanawa**
 📧 ssendikwanawaemmanuel@gmail.com
-🔗 [LinkedIn](your-linkedin-url) · [ORCID](https://orcid.org/0000-0002-8116-9216)
+
+🔗 [LinkedIn]()https://www.linkedin.com/in/emmanuel-ssendikwanawa-859804109)
+
+[ORCID](https://orcid.org/0000-0002-8116-9216)
 📍 Kampala, Uganda.
