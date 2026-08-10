@@ -26,12 +26,6 @@ So I built **EpiDataLab** which is a free open source workspace with reproducibl
 
 ### Contact info
 >**Author:** Emmanuel Ssendikwanawa.
->**Phone:** https://orcid.org/0000-0002-8116-9216.
->*Email:* ssendikwanawaemmanuel@gmail.com
-
-### Contact
-
->**Author:** Emmanuel Ssendikwanawa
-ssendikwanawaemmanuel@gmail.com
-https://orcid.org/0000-0002-8116-9216
->**Address:** Kampala, Uganda
+>**Email:** *ssendikwanawaemmanuel@gmail.com*
+>**Orcid:** *https://orcid.org/0000-0002-8116-9216.*
+>**Address:** *Kampala, Uganda*
