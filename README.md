@@ -18,13 +18,13 @@ So I built **EpiDataLab** which is a free open source workspace with reproducibl
  
 ---
 
-## Data sources
+### Data sources
 
 - DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System
 
 ---
 
-## Contact info
+#### Contact info
 >**Author::** Emmanuel Ssendikwanawa.
 *ssendikwanawaemmanuel@gmail.com*
 
