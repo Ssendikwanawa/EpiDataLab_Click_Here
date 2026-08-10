@@ -24,7 +24,10 @@
 
 📂 [**Pipelines →**](./EpiDataLab_Click_Here)
  [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
- 
+
+ ## Related projects
+- [Feb_SUVD_Evaluation_](https://github.com/Ssendikwanawa/EVD_Analysis) — companion repository with lots of , data analysis for SUVD early intervention approaches 
+  
 ---
 
 ### Data sources
