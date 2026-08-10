@@ -17,10 +17,9 @@
 </p>
 
 ### Outbreak Analytic Pipelines
-*Over the recent years, I have kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of the major PHEs in Uganda (Ebola, Mpox, Measles, Malaria, etc)*
-
-*So I built pipelines and stored in my
- local library ***EpiDataLab***, which is a free open source workspace with reproducible R/Python scripts designed specifically for disease Epidemiological intelligence. Find the scripts by clicking on the links below*
+*Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, and others), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response activity.
+So I built ***EpiDataLab*** a free, open-source workspace of reproducible R/Python scripts purposely built for epidemiological intelligence, designed to reduce duplicated effort across outbreak responses and, over time, triangulate with Uganda's national digital surveillance platforms (eIDSR, DHIS2, ePHEM, Go.Data, etc).
+Explore the scripts below 👇*
 
 📂 [**EpiDataLab →**](./EpiDataLab_Click_Here)
 [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
