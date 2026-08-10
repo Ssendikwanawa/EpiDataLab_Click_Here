@@ -25,7 +25,7 @@
 [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
 
 ## Related projects
-- [**Feb_SUVD_Evaluation**](./EVD_Analysis)[`/EVD_Analysis`](./EVD_Analysis). — a reposi
+📂 [**Feb_SUVD_Evaluation**](./EVD_Analysis)[`/EVD_Analysis`](./EVD_Analysis).
  
 ---
 
