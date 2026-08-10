@@ -2,7 +2,6 @@
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/EpiDataLab_Click_Here)](https://github.com/Ssendikwanawa/EpiDataLab_Click_Here/commits/master)
-[![GitHub last commit](https://img.shields.io/github/last-commit/Ssendikwanawa/Python-Scripts-for-different-Analyses/tree/main/EVD_Analysis)](https://github.com/Ssendikwanawa/Python-Scripts-for-different-Analyses/tree/main/EVD_Analysis/commits/master)
 
 <p align="center">
 
