@@ -1,4 +1,3 @@
-
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)](https://www.python.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -18,16 +17,18 @@
 </p>
 
 ### Outbreak Analytic Pipelines
-*Over the past six years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of disease outbreaks such as Sudan Ebola Virus,  Bundibugyo Ebola Virus, Mpox, CCHF, Anthrax, Measles, Malaria, TB and more.*
+*Over the past six years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of di[...] 
 
-*So I built ***EpiDataLab*** which is a free open source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and analyzing outbreak data the way it actually shows up in the field. Find the scripts by clicking on link below*
+*So I built ***EpiDataLab*** which is a free open source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and anal[...]
+
+Find the scripts by clicking on the link below:
 
 📂 [**Pipelines →**](./EpiDataLab_Click_Here)
- [`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
+[`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
 
- ## Related projects
-- [Feb_SUVD_Evaluation_](https://github.com/Ssendikwanawa/EVD_Analysis) — companion repository with lots of , data analysis for SUVD early intervention approaches 
-  
+## Related projects
+- [Feb_SUVD_Evaluation](https://github.com/Ssendikwanawa/EVD_Analysis) — companion repository with extensive data analysis for SUVD early-intervention approaches.
+ 
 ---
 
 ### Data sources
