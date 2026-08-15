@@ -27,12 +27,6 @@
 *We put together our scripts in this folder named ***EpiDataLab:,*** purposely built for epidemiological intelligence. Click on the links below to explore them*
 
 📂 [**EpiDataLab →**](./EpiDataLab_Click_Here)
-[`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
-
-## Related projects
-[**Feb_SUVD_Evaluation**](./EVD_Analysis)[`/EVD_Analysis`](./EVD_Analysis).
- 
----
 
 ### Data sources
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
