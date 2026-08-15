@@ -24,9 +24,9 @@
 
 *Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, and others), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response activity.*
 
-*We put together our scripts in this folder named ***EpiDataLab:,*** purposely built for epidemiological intelligence. Click on the links below to explore them*
+*We put together our scripts in this folder named ***EpiDataLab:,*** purposely built for epidemiological intelligence. See link below;*
 
-📂 [**EpiDataLab →**](./EpiDataLab_Click_Here)
+📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
 ### Data sources
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
