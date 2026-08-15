@@ -26,10 +26,9 @@
 
 *This repo contains R/Python scripts  built to turn raw surveillance data into decision-ready outputs for outbreak preparedness and response.*
 
-*Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, and others), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response activity.*
+*Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, e.t.c.), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response activities that i were involved in.*
 
-*I put together the scripts in this folder named ***EpiDataLab:,*** purposely built for epidemiological intelligence. 
-Check link below;*
+*I put together the scripts in this folder named ***EpiDataLab:,*** Check link below;*
 
 <p/>
 
