@@ -35,11 +35,11 @@ Check link below;*
 
 ## 📊 Sample Outputs
 
-Real-world epidemiological bulletins produced using this workflow, from Lango Sub-Region, Uganda.
+Have a look at some of the epidemiological bulletins and situation reports produced using this workflow.
 
-[Disease Outbreak Situation reports looks like this](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf)
+[Disease Outbreak Situation reports_Mpox](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf)
 
-[Epidemiological bulletins look like this](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf)
+[Epidemiological bulletins ](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf)
 
 #### Contact info
 >**Author:** Emmanuel Ssendikwanawa.
