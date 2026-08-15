@@ -19,9 +19,9 @@
 <p align="center">
  
 ## Built With:
-**RStudio:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `epikit`, `spanner`
+**RStudio Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `dplyr`, `tidyr`, `ggstatsplot`, `tmap`, `stringr`, `ggridges`, `viridis`, `gridExtra`, `grid`, `ggspatial`, `survival`, `survminer`, `RColorBrewer`, `etc`
 
-**Python:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`
+**Python Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`
 
 </p>
 
