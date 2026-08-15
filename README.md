@@ -37,11 +37,11 @@ Check link below;*
 
 Have a look at some outputs on descriptive epidemiology produced using this workflow.
 
-📌 [Disease Outbreak Situation reports_Mpox](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 📝
+📌 [Disease Outbreak Situation report](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 📝
 
-📌 [Epidemiological bulletins ](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 📝
+📌 [Weekly Epidemiological bulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 📝
 
- 📌 [Forest Plot on HIV Drug Mutations among Pts with Viraemia](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 📝
+ 📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 📝
 
 #### Contact info
 >**Author:** Emmanuel Ssendikwanawa.
