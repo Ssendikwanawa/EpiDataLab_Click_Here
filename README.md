@@ -15,7 +15,7 @@
 <p align="center">
  
 ## Built With:
-**RStudio-Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `grid`, `ggspatial`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.
+**RStudio-Libraries:** `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.
 
 </p>
 
@@ -35,7 +35,7 @@ Check link below;*
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
-Quickly have a look at some outputs produced from EpidataLab.
+Quickly have a look at some outputs below;
 
 📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
 
