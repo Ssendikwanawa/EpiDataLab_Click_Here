@@ -33,6 +33,15 @@ Check link below;*
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
 ---
 
+## 📊 Sample Outputs & Reports
+
+Real-world epidemiological bulletins produced using this workflow, from Lango Sub-Region, Uganda.
+
+| Report | 2025 | Epibulletins |
+|---|---|---|
+| [Lango Mpox Summary](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) | 27 Jun 2025 | Weekly Mpox case summary — cumulative cases, CFR, attack rate by district |
+| [Lango Epi Bulletin — Week 17](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) | 21–27 Apr 2025 | Regional weekly bulletin — reporting rates, epidemic-prone diseases, TB & malaria indicators |
+
 #### Contact info
 >**Author:** Emmanuel Ssendikwanawa.
 *ssendikwanawaemmanuel@gmail.com*
