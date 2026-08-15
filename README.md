@@ -15,7 +15,7 @@
 <p align="center">
  
 ## Built With:
-**RStudio-Libraries:** *`ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.*
+***RStudio-Libraries:** `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.*
 
 </p>
 
