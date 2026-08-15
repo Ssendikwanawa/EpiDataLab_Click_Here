@@ -28,7 +28,7 @@
 
 *Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, etc.), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response I was involved in.*
 
-*I put together the scripts in a folder named ***EpiDataLab:,*** Check the link below;*
+*I put together the scripts in a folder named ***EpiDataLab.*** Check the link below:*
 
 <p/>
 
