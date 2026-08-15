@@ -33,15 +33,16 @@ Check link below;*
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
 ---
 
-## 📊 Sample Outputs
-
+## Sample Outputs
 Have a look at some outputs on descriptive epidemiology produced using this workflow.
 
-📌 [Disease Outbreak Situation report](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 📝
+📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 📝
 
-📌 [Weekly Epidemiological bulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 📝
+📌 [Week 17 2025 Epibulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 📝
 
-📌 [Ebola and Mpox_sitrep_Lango](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 📝
+📌 [Dse Outbreak Sitrep in June2025_Lira](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 📝
+
+📌 [Dse Outbrek Sitrep in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 📝
 
  📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 📝
 
