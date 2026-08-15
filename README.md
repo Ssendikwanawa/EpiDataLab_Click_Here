@@ -16,6 +16,15 @@
 
 </p>
 
+<p align="center">
+ 
+## Built With:
+**RStudio:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `epikit`, `spanner`
+
+**Python:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`
+
+</p>
+
 <h align="center">
  
 ## Reusable Pipelines for Epidemiological Intelligence
