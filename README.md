@@ -33,7 +33,7 @@ Check link below;*
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
 ---
 
-## 📊 Sample Outputs & Reports
+## 📊 Sample Outputs
 
 Real-world epidemiological bulletins produced using this workflow, from Lango Sub-Region, Uganda.
 
