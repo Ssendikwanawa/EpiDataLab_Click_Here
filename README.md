@@ -38,8 +38,7 @@ Check link below;*
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
-## Sample Outputs
-Have a look at some outputs on descriptive epidemiology produced using this workflow.
+Quickly have a look at some outputs produced from our EpidataLab.
 
 📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
 
