@@ -27,7 +27,6 @@
  
 ## Reusable Pipelines for Epidemiological Intelligence
  
-</h>
 
 *This repo contains R/Python scripts  built to turn raw surveillance data into decision-ready outputs for outbreak preparedness and response.*
 
@@ -35,6 +34,8 @@
 
 *I put together the scripts in this folder named ***EpiDataLab:,*** purposely built for epidemiological intelligence. 
 Check link below;*
+
+<h/>
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
