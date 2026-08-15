@@ -19,7 +19,7 @@
 <p align="center">
  
 ## Built With:
-**RStudio Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `dplyr`, `tidyr`, `ggstatsplot`, `tmap`, `stringr`, `ggridges`, `viridis`, `gridExtra`, `grid`, `ggspatial`, `survival`, `survminer`, `RColorBrewer`, `etc`
+**RStudio Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `grid`, `ggspatial`, `survival`, `RColorBrewer`, `etc`
 
 **Python Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`
 
