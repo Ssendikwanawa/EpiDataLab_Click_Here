@@ -20,15 +20,13 @@
  
 ## Built With:
 **RStudio Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `grid`, `ggspatial`, `survival`, `RColorBrewer`, `etc`
-
 **Python Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`
-
 </p>
 
-<h align="center">
+<h align="center"> 
  
 ## Reusable Pipelines for Epidemiological Intelligence
-
+ 
 </h>
 
 *Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, and others), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response activity.*
