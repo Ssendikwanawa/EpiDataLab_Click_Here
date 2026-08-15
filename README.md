@@ -37,9 +37,9 @@ Check link below;*
 
 Real-world epidemiological bulletins produced using this workflow, from Lango Sub-Region, Uganda.
 
-|[Lango Mpox Sitrep looks like this](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf)
+[Disease Outbreak Situation reports looks like this](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf)
 
-|[Lango Epi Bulletin — Week 17 looks like this](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf)
+[Epidemiological bulletins look like this](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf)
 
 #### Contact info
 >**Author:** Emmanuel Ssendikwanawa.
