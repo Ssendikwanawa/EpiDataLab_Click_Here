@@ -38,10 +38,6 @@ Check link below;*
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
-### Data sources
-- *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
----
-
 ## Sample Outputs
 Have a look at some outputs on descriptive epidemiology produced using this workflow.
 
@@ -55,8 +51,11 @@ Have a look at some outputs on descriptive epidemiology produced using this work
 
  📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 
 
+### Data sources
+- *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
+---
+
 #### Contact info
 >**Author:** Emmanuel Ssendikwanawa.
 *ssendikwanawaemmanuel@gmail.com*
-
 >**Address:** *Kampala, Uganda*
