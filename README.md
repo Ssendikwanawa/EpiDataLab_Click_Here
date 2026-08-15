@@ -34,7 +34,7 @@
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
-Quickly have a look at some outputs below;
+Quickly have a look at some outputs below:
 
 📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
 
@@ -44,7 +44,7 @@ Quickly have a look at some outputs below;
 
 📌 [Disease Outbreak Situation in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
 
- 📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 
+ 📌 [Forest Plot on HIV Drug Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 
 
 ### Data sources
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go.Data, Integrated Requests & Results Dispatch System*
