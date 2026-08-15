@@ -6,10 +6,6 @@
 <p align="center">
 
 ## Disease outbreak analytics for preparedness and response 
-
-</p>
-
-<p align="center">
  
 **Real-time outbreak analytics in R/Python**
 *Transforming Uganda's MoH disease surveillance data into actionable intelligence.*
@@ -19,11 +15,11 @@
 <p align="center">
  
 ## Built With:
-**RStudio-Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `grid`, `ggspatial`, `survival`, `RColorBrewer`, `etc`
-**Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`
+**RStudio-Libraries:** `tidyverse`, `sf`, `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `grid`, `ggspatial`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.
+
 </p>
 
-<h align="center"> 
+<p align="center"> 
  
 ## Reusable Pipelines for Epidemiological Intelligence
  
@@ -35,11 +31,11 @@
 *I put together the scripts in this folder named ***EpiDataLab:,*** purposely built for epidemiological intelligence. 
 Check link below;*
 
-<h/>
+<p/>
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
-Quickly have a look at some outputs produced from our EpidataLab.
+Quickly have a look at some outputs produced from EpidataLab.
 
 📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
 
