@@ -44,9 +44,9 @@ Quickly have a look at some outputs produced from our EpidataLab.
 
 📌 [Week 17 2025 Epibulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 
 
-📌 [Dse Outbreak Sitrep in June2025_Lira](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
+📌 [Disease Outbreak Situation in June2025_Lira](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
 
-📌 [Dse Outbrek Sitrep in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
+📌 [Disease Outbreak Situation in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
 
  📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 
 
