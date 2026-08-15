@@ -41,7 +41,7 @@ Have a look at some outputs on descriptive epidemiology produced using this work
 
 📌 [Weekly Epidemiological bulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 📝
 
-📌 [Ebola and Mpox_sitrep_Lango](reports/lango_mpox/Ebola&MpoxSitrep/pdf) 📝
+📌 [Ebola and Mpox_sitrep_Lango](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 📝
 
  📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 📝
 
