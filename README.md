@@ -49,7 +49,7 @@ Quickly have a look at some outputs produced from our EpidataLab.
  📌 [Forest Plot on HIV Drug Mutations among PLHIV with Viralogical Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf) 
 
 ### Data sources
-- *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
+- *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go.Data, Integrated Requests & Results Dispatch System*
 ---
 
 #### Contact info
