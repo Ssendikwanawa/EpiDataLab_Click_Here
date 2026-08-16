@@ -36,6 +36,8 @@ Quickly have a look at some outputs below:
 
 📌 [Disease Outbreak Situation in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
 
+📌 [Sitrep in week13 2025_Lira](reports/Sitrep_Wk132025.pdf) 
+
  📌 [Forest Plot on HIV Drug Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - *Overall prevalence: 79.8%. Estimates were homogeneous within sub-regions and did not differ significantly between Busoga&Bukedi (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (e.g., ART program history, drug resistance patterns) rather than facility-level or sub-regional variation.*
 
  <p align="center">
