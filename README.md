@@ -38,7 +38,7 @@ Quickly have a look at some outputs below:
 
 📌 [Sitrep_Wk13](reports/lango_mpox/Sitrep_Wk132025.pdf) 
 
- 📌 [Forest Plot on HIV Drug Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - *Overall prevalence: 79.8%. Estimates were homogeneous within sub-regions and did not differ significantly between Busoga&Bukedi (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (e.g., ART program history, drug resistance patterns) rather than facility-level or sub-regional variation.*
+ 📌 [Forest Plot on HIV Drug Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall prevalence: 79.8%. Estimates were homogeneous within sub-regions and did not differ significantly between Busoga&Bukedi (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (e.g., ART program history, drug resistance patterns) rather than facility-level or sub-regional variation.* </sub>
 
  <p align="center">
  
