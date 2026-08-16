@@ -45,7 +45,6 @@ Quickly have a look at some outputs below:
 
 </p>
 
-
 ### Data sources
 - *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go.Data, Integrated Requests & Results Dispatch System*
 ---
