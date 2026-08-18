@@ -52,6 +52,6 @@ Quickly have a look at some outputs below:
 ---
 
 #### Contact info
->**Author:** Emmanuel Ssendikwanawa.
+>**Author:** **``Emmanuel Ssendikwanawa.``**
 *ssendikwanawaemmanuel@gmail.com*
 >**Address:** *Kampala, Uganda*
