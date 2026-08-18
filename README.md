@@ -6,40 +6,52 @@
 <p align="center">
 
 ## Disease outbreak analytics for preparedness and response 
-
-</p>
-
-<p align="center">
  
 **Real-time outbreak analytics in R/Python**
 *Transforming Uganda's MoH disease surveillance data into actionable intelligence.*
 
 </p>
 
-### Outbreak Analytic Pipelines
-*Over the past six years, I kept building the same data analytics pipelines from scratch for every disease preparedness and outbreak response activity I engaged in to support MoH containment of di[...] 
-
-*So I built ***EpiDataLab*** which is a free open source workspace with reproducible R/Python pipelines designed specifically for field disease surveillance data: cleaning, triangulating, and anal[...]
-
-Find the scripts by clicking on the link below:
-
-📂 [**Pipelines →**](./EpiDataLab_Click_Here)
-[`/EpiDataLab_Click_Here`](./EpiDataLab_Click_Here).
-
-## Related projects
-[![EVD Analysis](https://img.shields.io/badge/Related-EVD%20Analysis-blue?style=for-the-badge)](https://github.com/Ssendikwanawa/EVD_Analysis)
-- [Feb_SUVD_Evaluation](https://github.com/Ssendikwanawa/EVD_Analysis) — companion repository with extensive data analysis for SUVD early-intervention approaches.
+<p align="center"> 
  
----
+## Reusable Pipelines for Epidemiological Intelligence
+ 
+*This repo contains `R/Python` scripts  built to turn raw surveillance data into decision-ready outputs for outbreak preparedness and response.*
+
+*Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, etc.), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response I was involved in.*
+
+*I put together the scripts in a folder named ***EpiDataLab.*** Check the link below:*
+
+<p/>
+
+📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
+
+Quickly have a look at some outputs below:
+
+📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
+
+📌 [Week 17 2025 Epibulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 
+
+📌 [Disease Outbreak Situation in June2025_Lira](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
+
+📌 [Disease Outbreak Situation in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
+
+📌 [Sitrep_Wk13](reports/lango_mpox/Sitrep_Wk132025.pdf) 
+
+ 📌 [Forest Plot on HIV-Drug Resistant Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall prevalence: 79.8%. Estimates were homogeneous within sub-regions and did not differ significantly between Busoga&Bukedi (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (e.g., ART program history, drug resistance patterns) rather than facility-level or sub-regional variation.* </sub>
+
+ <p align="center">
+ 
+## Built With:
+***RStudio-Libraries:** `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.*
+
+</p>
 
 ### Data sources
-- *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-data, Integrated Requests & Results Dispatch System*
+- *DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go.Data, Integrated Requests & Results Dispatch System*
 ---
 
 #### Contact info
->**Author::** Emmanuel Ssendikwanawa.
+>**Author:** **``Emmanuel Ssendikwanawa.``**
 *ssendikwanawaemmanuel@gmail.com*
-
->**Orcid:** *https://orcid.org/0000-0002-8116-9216.*
-
 >**Address:** *Kampala, Uganda*

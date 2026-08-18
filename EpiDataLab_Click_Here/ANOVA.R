@@ -6,7 +6,7 @@ library(tidyr)
 library(ggstatsplot)
 library(rstatix)
 
-# Create your data
+# Create data
 data <- data.frame(
   Time = 1:11,
   ACS_Alerts = c(2.416667, 2.333333, 2.25, 2.166667, 2.083333, 2.0, 1.916667, 1.833333, 1.75, 1.666667, 1.583333),
