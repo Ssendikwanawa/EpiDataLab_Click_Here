@@ -16,7 +16,7 @@
  
 ## Reusable Pipelines for Epidemiological Intelligence
  
-*This repo contains R/Python scripts  built to turn raw surveillance data into decision-ready outputs for outbreak preparedness and response.*
+*This repo contains `R/Python` scripts  built to turn raw surveillance data into decision-ready outputs for outbreak preparedness and response.*
 
 *Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, etc.), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response I was involved in.*
 
