@@ -28,7 +28,7 @@
 
 Quickly have a look at some outputs below:
 
-📌 [Antharax spatial clustering](reports/lango_mpox/Athrax_spatial_clustering.pdf) 
+📌 [Anthrax spatial clustering](reports/lango_mpox/Athrax_spatial_clustering.pdf) 
 
 📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
 
