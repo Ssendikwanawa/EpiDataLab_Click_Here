@@ -4,3 +4,5 @@
 .Ruserdata
 Thumbs.db
 .DS_Store
+.venv/
+.idea/
