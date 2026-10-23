@@ -15,36 +15,27 @@
 <p align="center"> 
  
 ## Reusable Pipelines for Epidemiological Intelligence
- 
 *This repo contains `R/Python` scripts  built to turn raw surveillance data into decision-ready outputs for outbreak preparedness and response.*
-
 *Over the years, supporting Uganda's MoH in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, etc.), I kept rebuilding the same data analytics pipelines from scratch for each new disease preparedness and outbreak response I was involved in.*
-
 *I put together the scripts in a folder named ***EpiDataLab.*** Check the link below:*
 
 <p/>
 
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
-Quickly have a look at some outputs below:
+Some outputs look like these: tap any links
 
 📌 [Anthrax spatial clustering](reports/lango_mpox/Athrax_spatial_clustering.pdf) 
-
 📌 [Week 1 2025 Epibulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
-
 📌 [Week 17 2025 Epibulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 
-
 📌 [Disease Outbreak Situation in June2025_Lira](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
-
 📌 [Disease Outbreak Situation in Jan2025_Lira](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
-
 📌 [Sitrep_Wk13](reports/lango_mpox/Sitrep_Wk132025.pdf) 
+📌[Forest Plot on HIV-Drug Resistant Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall prevalence was 79.8% and homogeneous within sub-regions (Bukedi&Busoga) and did not differ significantly (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (e.g., ART program history, drug resistance patterns etc) rather than facility-level or sub-regional variations.* </sub>
 
- 📌 [Forest Plot on HIV-Drug Resistant Mutations among PLHIV with Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall prevalence was 79.8% and homogeneous within sub-regions (Bukedi&Busoga) and did not differ significantly (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (e.g., ART program history, drug resistance patterns etc) rather than facility-level or sub-regional variations.* </sub>
-
- <p align="center">
+<p align="center">
  
-## Built With:
+## Built With KIGGA:
 ***RStudio-Libraries:** `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `survival`, `RColorBrewer`, `etc`. **Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc`.*
 
 </p>
@@ -56,4 +47,4 @@ Quickly have a look at some outputs below:
 #### Contact info
 >**Author:** **``Emmanuel Ssendikwanawa.``**
 *ssendikwanawaemmanuel@gmail.com*
->**Address:** *Kampala, Uganda*
+>**Address:** *Kampala, Uganda* 
