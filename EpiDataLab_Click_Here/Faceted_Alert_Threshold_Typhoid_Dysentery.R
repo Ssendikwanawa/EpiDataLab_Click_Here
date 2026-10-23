@@ -12,7 +12,7 @@ View(Dysentry_Typhoid_thresholds)
 data <- Dysentry_Typhoid_thresholds #let date set imported be called data
 
 names (data)
-# Rename columns for easier referencing if needed (optional)
+# Rename columns 
 colnames(data) <- c("Period", "Typhoid_Alert_Threshold", "Dysentery_Alert_Threshold", 
                     "Typhoid_Cases_2024", "Dysentery_Cases_2024")
 
@@ -52,7 +52,7 @@ long_data <- long_data %>%
   mutate(Type = case_when(
     Type == "Alert" ~ "Alert Threshold",
     Type == "Cases" ~ "Cases 2024",
-    TRUE ~ Type  # Keep other values unchanged (if any)
+    TRUE ~ Type  # Keep other values unchanged
   ))
 
 # Rename values in the `Type` column
@@ -60,7 +60,7 @@ long_data <- long_data %>%
   mutate(Type = case_when(
     Type == "Alert" ~ "Alert Threshold",
     Type == "Cases" ~ "Cases 2024",
-    TRUE ~ Type  # Keep other values unchanged (if any)
+    TRUE ~ Type  # Keep other values unchanged 
   ))
 
 # Create the faceted plot with explicit grouping and custom colors

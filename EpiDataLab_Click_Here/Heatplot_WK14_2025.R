@@ -4,13 +4,12 @@ library(ggplot2)
 library(reshape2)
 library(RColorBrewer)
 
-# Set file path (ensure correct escape slashes)
-file_path <- "D:\\Ssendi\\Week14\\Priority_diseases_Wk14.xls"
-
+# Set file path
+file_path <- "D:\\Ssendi\\Week14\\Priority_diseases_Wk14.xls" # / this slash 
 # Load Excel data
 df <- read_excel(file_path)
 
-# Transpose: Drop 'District' column, use it as colnames, transpose
+# Transpose: Drop 'Distric
 df_transposed <- as.data.frame(t(df[,-1]))
 colnames(df_transposed) <- df$District
 df_transposed$Disease <- rownames(df_transposed)

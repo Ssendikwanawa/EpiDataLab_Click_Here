@@ -1,4 +1,4 @@
-# 1. Clear environment and load packages
+# 1. Clear environment
 rm(list = ls())
 library(sf)
 library(dplyr)
@@ -9,7 +9,7 @@ library(spdep)
 library(grid)
 library(gridExtra)
 
-# 2. Read Excel and shapefile, then join into merged_sf
+# 2. Read Excel and shapefil
 anthrax_df <- read_excel("D:/EVD_Mbale/Vero/Anthrax_byplace.xlsx") %>%
   mutate(
     District_clean  = str_to_upper(str_trim(District)),
