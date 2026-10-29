@@ -18,7 +18,7 @@ Over the years, supporting Uganda's Ministry of Health in containing major publi
 📂 [**EpiDataLab**](./EpiDataLab_Click_Here)
 
 ### Sample outputs
-📌 [Anthrax spatial clustering in Uganda](reports/lango_mpox/Athrax_spatial_clustering.pdf) 
+📌 [Anthrax spatial clustering in Uganda](EpiDataLab_Click_Here/reports/lango_mpox/Athrax_spatial_clustering.pdf) 
 
 📌 [Week 1 2025 Epidemiological bulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
 
