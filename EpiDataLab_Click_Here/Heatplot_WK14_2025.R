@@ -5,7 +5,7 @@ library(reshape2)
 library(RColorBrewer)
 
 # Set file path
-file_path <- "D:\\Ssendi\\Week14\\Priority_diseases_Wk14.xls" # / this slash 
+file_path <- "D:\\Ssendi\\Week14\\Priority_diseases_Wk14.xls" 
 # Load Excel data
 df <- read_excel(file_path)
 
