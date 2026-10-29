@@ -39,7 +39,7 @@ I kept rebuilding the same data analytics pipelines from scratch for each new re
 ***RStudio-Libraries:** `ggplot2`, `lubridate`, `gt`, `tidyr`, `ggstatsplot`, `tmap`, `ggridges`, `viridis`, `survival`, `RColorBrewer`, `etc`.*          
 ***Python-Libraries:** `pandas`, `geopandas`, `matplotlib`, `numpy`, `plotly`, `kaleido`, `etc.`*
 
-**Data sources:** Data sources included  DHIS2, eIDSR, ePHEM, HMIS033B, RDS, UBOS 2025 shapefiles, Linelists, Go-Data, RDS, Alerts.health.go.ug
+**Data sources:** Data sources included  DHIS2, eIDSR, ePHEM, HMIS033B, EMR, RDS, eELMIS, UBOS 2025 shapefiles, Linelists, Go-Data, RDS, Alerts.health.go.ug
 
 </p>
 
