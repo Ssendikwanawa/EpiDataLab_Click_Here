@@ -20,17 +20,17 @@ Over the years, supporting Uganda's Ministry of Health in containing major publi
 ### Sample outputs
 📌 [Anthrax spatial clustering in Uganda](EpiDataLab_Click_Here/reports/lango_mpox/Athrax_spatial_clustering.pdf) 
 
-📌 [Week 1 2025 Epidemiological bulletin Lango](reports/lango_mpox/EpiBulletin.pdf) 
+📌 [Week 1 2025 Epidemiological bulletin Lango](EpiDataLab_Click_Here/reports/lango_mpox/EpiBulletin.pdf) 
 
-📌 [Week 17 2025 Epibulletin](reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 
+📌 [Week 17 2025 Epibulletin](EpiDataLab_Click_Here/reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 
 
-📌 [Sitrep June2025_Lira](reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
+📌 [Sitrep June2025_Lira](EpiDataLab_Click_Here/reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
 
-📌 [Outbreak Situation report Ebola & Mpox](reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
+📌 [Outbreak Situation report Ebola & Mpox](EpiDataLab_Click_Here/reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
 
-📌 [Sitrep during Epi Week13 Lango](reports/lango_mpox/Sitrep_Wk132025.pdf) 
+📌 [Sitrep during Epi Week13 Lango](EpiDataLab_Click_Here/reports/lango_mpox/Sitrep_Wk132025.pdf) 
 
-📌 [Forest Plot on HIV-DRM among PLHIV who have Virological Failure](reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall the prevalence of HIV Drug Resistant Mutation was 80% and homogeneous within sub-regions (Bukedi & Busoga) and did not differ significantly (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (which can be ART program history, drug resistance patterns etc) rather than facility-level or sub-regional unique differences.* </sub>
+📌 [Forest Plot on HIV-DRM among PLHIV who have Virological Failure](EpiDataLab_Click_Here/reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall the prevalence of HIV Drug Resistant Mutation was 80% and homogeneous within sub-regions (Bukedi & Busoga) and did not differ significantly (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (which can be ART program history, drug resistance patterns etc) rather than facility-level or sub-regional unique differences.* </sub>
 
 <p align="center">
  
