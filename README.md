@@ -11,7 +11,8 @@
 
 Real-time outbreak analytics in R/Python, transforming Uganda's MoH disease surveillance data into actionable intelligence. This repository contains reusable R and Python scripts that turn raw surveillance data into decision-ready outputs for outbreak preparedness and response. 
 
-Over the years, supporting Uganda's Ministry of Health in containing major public health emergencies (Ebola, Mpox, Measles, Malaria and others), I kept rebuilding the same data analytics pipelines from scratch for each new response I was involved in. I put together the scripts in a folder named *******EpiDataLab******* below. These scripts are reproducible and purposely built to support those into data analytics for outbreak response. Feel free to reach out.
+Over the years, supporting Uganda's Ministry of Health in containing major public health emergencies (Ebola, Mpox, Measles, Malaria, Anthrax, TB, e.t.c), including MPDSR. 
+I kept rebuilding the same data analytics pipelines from scratch for each new response I was involved in. I put together the scripts in a folder named  ******EpiDataLab******* below. The scripts are reproducible and purposely built to support those into data analytics for outbreak preparedness & response. Feel free to reach out.
 
 </p>
 
