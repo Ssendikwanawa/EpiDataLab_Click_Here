@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <p align="center">
 
-## Disease outbreak analytics for preparedness & response.
+## Disease Outbreak Analytics for Preparedness & Response.
 
 </p>
 
@@ -18,19 +18,19 @@ Over the years, supporting Uganda's Ministry of Health in containing major publi
 📂 [******EpiDataLab******](./EpiDataLab_Click_Here)
 
 ### Sample outputs
-📌 [Anthrax spatial clustering in Uganda](EpiDataLab_Click_Here/reports/lango_mpox/Athrax_spatial_clustering.pdf) 
+📌 [Anthrax Spatial Clustering in Uganda](EpiDataLab_Click_Here/reports/lango_mpox/Athrax_spatial_clustering.pdf) 
 
-📌 [Week 1 2025 Epidemiological bulletin Lango](EpiDataLab_Click_Here/reports/lango_mpox/EpiBulletin.pdf) 
+📌 [Week 1 2025 Epidemiological Bulletin Lira](EpiDataLab_Click_Here/reports/lango_mpox/EpiBulletin.pdf) 
 
 📌 [Week 17 2025 Epibulletin](EpiDataLab_Click_Here/reports/lango_mpox/Lango_Epibulletin_EpiWK_17_.pdf) 
 
-📌 [Sitrep June2025_Lira](EpiDataLab_Click_Here/reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
+📌 [Sitrep June2025_Lango](EpiDataLab_Click_Here/reports/lango_mpox/Lango_Mpox_june_27_2025.pdf) 
 
-📌 [Outbreak Situation report Ebola & Mpox](EpiDataLab_Click_Here/reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
+📌 [Outbreak Situation Report Ebola & Mpox](EpiDataLab_Click_Here/reports/lango_mpox/Ebola&MpoxSitrep.pdf) 
 
 📌 [Sitrep during Epi Week13 Lango](EpiDataLab_Click_Here/reports/lango_mpox/Sitrep_Wk132025.pdf) 
 
-📌 [Forest Plot on HIV-DRM among PLHIV who have Virological Failure](EpiDataLab_Click_Here/reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall the prevalence of HIV Drug Resistant Mutation was 80% and homogeneous within sub-regions (Bukedi & Busoga) and did not differ significantly (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (which can be ART program history, drug resistance patterns etc) rather than facility-level or sub-regional unique differences.* </sub>
+📌 [Forest Plot_HIV-DRM among PLHIV With Virological Failure](EpiDataLab_Click_Here/reports/lango_mpox/Forest_plot_HIV_Drug_Mutations.pdf)  - <sub> *Overall the prevalence of HIV Drug Resistant Mutation was 80% and homogeneous within sub-regions (Bukedi & Busoga) and did not differ significantly (p=0.214), suggesting HIV-DRM burden is driven by shared regional factors (which can be ART program history, drug resistance patterns etc) rather than facility-level or sub-regional unique differences.* </sub>
 
 <p align="center">
  
